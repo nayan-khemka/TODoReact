@@ -1,6 +1,5 @@
 import React, {useState} from "react";
 import axios from "axios";
-import {TextInput} from 'react-native';
 
 const UpdateTdo=(id)=>{
     console.log(id);
